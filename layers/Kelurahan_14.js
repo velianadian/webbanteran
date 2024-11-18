@@ -1,0 +1,1 @@
+var json_Kelurahan_14 = {"type":"FeatureCollection","name":"Kelurahan_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Balai Desa banteran"},"geometry":{"type":"Point","coordinates":[109.260810785979587,-7.3626451091931]}}]}
